@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    background-color: blanchedalmond;
+    align-items: center;
+    flex-direction: column;
+}
+
+html{
+    height: 100%
+}
+svg{
+    background-color: powderblue;
+}
+.bar{
+    fill: rgb(255, 140, 0);
+    background-color: white;
+    border-color: black;
+}
+.bar
+.bar:hover{
+    background-color: whitesmoke;
+}
